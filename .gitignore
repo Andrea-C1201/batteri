@@ -6,3 +6,8 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+
+# Eclipse specific
+.classpath
+.project
+bin/
